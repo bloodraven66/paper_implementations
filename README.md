@@ -5,7 +5,7 @@ Refer to Course-notes repo, DUSL-assignments for implementations of
  - GANs - original GAN, BiGAN
  - VAEs - original VAE, VQ-VAE
  <br>
-Clean and upload:
-- <a href=https://ieeexplore.ieee.org/abstract/document/8721681>Learning Deep Features for One-Class Classification</a>
-- <a href=https://arxiv.org/abs/1806.04613>Improving Regression Performance with Distributional Losses</a>
+Clean and upload:<br>
+- <a href=https://ieeexplore.ieee.org/abstract/document/8721681>Learning Deep Features for One-Class Classification</a><br>
+- <a href=https://arxiv.org/abs/1806.04613>Improving Regression Performance with Distributional Losses</a><br>
 Work in progress: GLOW 
